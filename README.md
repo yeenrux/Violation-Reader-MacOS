@@ -3,7 +3,7 @@ base: https://github.com/yeenrux/Roblox-POC-Mac-External/
 
 Hyperion isn't supported on MacOS so all this does is reports Luau Violations
 
-macos arm64 - version-b09c93298b5d4cd1
+macos arm64 - version-2fc79d515be6449d
 
 Disclaimer
 This project is intended strictly for educational and research purposes only.

@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="Violations/Violations.vcxproj" Id="32f83c7f-25f5-4a30-91c7-2a895d15d86c" />
-</Solution>

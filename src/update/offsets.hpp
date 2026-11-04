@@ -4,7 +4,7 @@
 
 namespace Offsets {
   // Instance
-  constexpr uintptr_t FakeDataModel = 0x6f1f028;
+  constexpr uintptr_t FakeDataModel = 0x6fff590;
   constexpr intptr_t RealDataModel = -0xe0;
   constexpr int Children = 0x70;
   constexpr int ClassDescriptor = 0x18;
@@ -13,12 +13,12 @@ namespace Offsets {
   constexpr int StringLength = 0x8;
 
   // Structs
-  constexpr int LGlobal = 0x38; // L->global
-  constexpr int RegistryFree = 0x628; // global->registryfree
+  constexpr int LGlobal = 0x50; // L->global
+  constexpr int RegistryFree = 0x640; // global->registryfree
 
   // Luau
   constexpr int StateFacet = 0x168;
-  constexpr int StateSlot = 0x98;
+  constexpr int StateSlot = 0x88;
   constexpr int StateStride = 0x308;
-  constexpr int FacetState = 0x1508;
+  constexpr int FacetState = 0x14f8;
 }

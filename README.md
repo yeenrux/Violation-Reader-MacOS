@@ -3,6 +3,8 @@ base: https://github.com/yeenrux/Roblox-POC-Mac-External/
 
 Hyperion isn't supported on MacOS so all this does is reports Luau Violations
 
+ps: there's other checks that MacOS had that I don't support in this repo. I mainly made this just to test my External Executor.
+
 macos arm64 - version-2fc79d515be6449d
 
 Disclaimer
